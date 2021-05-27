@@ -31,6 +31,7 @@
 
 # Build settings
 theme: jekyll-theme-cayman
+title: Testing out the title
 # plugins:
 #   - jekyll-feed
 
