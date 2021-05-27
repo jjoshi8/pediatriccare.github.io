@@ -30,8 +30,8 @@
 # github_username:  jekyll
 
 # Build settings
-theme: jekyll-theme-cayman
 title: Testing out the title
+theme: jekyll-theme-cayman
 # plugins:
 #   - jekyll-feed
 
